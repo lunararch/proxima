@@ -1,0 +1,1 @@
+# ADR-0007: Package/module repository format and security

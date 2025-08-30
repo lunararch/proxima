@@ -1,0 +1,1 @@
+# ADR-0012: Security hardening baseline (PIE, ASLR, etc.)

@@ -1,0 +1,1 @@
+# ADR-0008: Cross-compilation strategy (Docker vs native)

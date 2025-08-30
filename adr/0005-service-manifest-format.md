@@ -1,0 +1,1 @@
+# ADR-0005: Service manifest format (JSON vs TOML vs YAML)

@@ -1,0 +1,1 @@
+# ADR-0006: Init system architecture (supervision vs systemd-like)

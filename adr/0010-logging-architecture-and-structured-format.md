@@ -1,0 +1,1 @@
+# ADR-0010: Logging architecture and structured format
